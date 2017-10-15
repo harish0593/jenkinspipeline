@@ -27,7 +27,7 @@
         name: bottlecontainer
         image: harish0593/testapp:v1
         ports:
-          - "4040:8080"
+          - "5050:8080"
 
   handlers:
     - name: start docker
